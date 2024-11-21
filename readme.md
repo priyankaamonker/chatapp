@@ -1,12 +1,14 @@
 REF: https://socket.io/docs/v4/tutorial/introduction
 
-1: Install dependencies on host (nodev18.20.5 , express@4 (npm install express@4), sqlite3)
+1: Install dependencies on host (nodev18.20.5 , express@4, sqlite3)
 
-2: cd to application dir:
+2: cd to application dir
 
-3: run: node index.js
+3: run: npm install express@4
 
-4: browse:
+4: run: node index.js
+
+5: browse:
 
     server running at http://localhost:3002
     
